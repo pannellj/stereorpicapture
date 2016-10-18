@@ -1,1 +1,1 @@
-@reboot bash ~/stereorpicapture/runcamera.sh && sleep 5 && sudo shutdown now
+@reboot bash ~/stereorpicapture/runcamera.sh; sudo shutdown now
